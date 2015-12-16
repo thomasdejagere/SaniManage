@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Sani Vervaeck">
+            <file>file:/D:/User/Documents/NetBeansProjects/SV%20Barcode%20System/src/DAO/ProductDAO.java</file>
+            <file>file:/D:/User/Documents/NetBeansProjects/SV%20Barcode%20System/src/domain/BarcodeController.java</file>
+            <file>file:/D:/User/Documents/NetBeansProjects/SV%20Barcode%20System/src/domain/GescandeProductenBeheer.java</file>
+            <file>file:/D:/User/Documents/NetBeansProjects/SV%20Barcode%20System/src/domain/ProductenBeheer.java</file>
+            <file>file:/D:/User/Documents/NetBeansProjects/SV%20Barcode%20System/src/service/ProductService.java</file>
+            <file>file:/D:/User/Documents/NetBeansProjects/SV%20Barcode%20System/src/domain/Product.java</file>
+            <file>file:/D:/User/Documents/NetBeansProjects/SV%20Barcode%20System/src/DAO/LeverancierDAO.java</file>
+            <file>file:/D:/User/Documents/NetBeansProjects/SV%20Barcode%20System/src/gui/StartScherm.java</file>
+            <file>file:/D:/User/Documents/NetBeansProjects/SV%20Barcode%20System/src/persistentie/JPAUtil.java</file>
+            <file>file:/D:/User/Documents/NetBeansProjects/SV%20Barcode%20System/src/META-INF/persistence.xml</file>
+            <file>file:/D:/User/Documents/NetBeansProjects/SV%20Barcode%20System/nbproject/build-impl.xml</file>
+        </group>
+    </open-files>
+</project-private>
